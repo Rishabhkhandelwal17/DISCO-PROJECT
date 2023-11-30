@@ -16,7 +16,6 @@ When testing different input files, the file name and path must be changed in th
 The test case inputs are also included in the repository.
 The output files ‘faculty course allotment 1’ and faculty course allotment 2’ which are created for the test case file ‘testdata_5’ are also included.
 
-When testing different input files, the file name and path must be changed in the code directly. 
 
 Demonstration under different test cases is shown in the video contained within this google drive:
 https://drive.google.com/drive/folders/12UyHMNviVu2yR5r5EoHZ-6ViKS6oorNY?q=parent:12UyHMNviVu2yR5r5EoHZ-6ViKS6oorNY
